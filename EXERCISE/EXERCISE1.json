@@ -1,0 +1,20 @@
+{
+    "firstName":"John",
+    "lastName":"King",
+    "age":25,
+    "address":{
+        "streetAddress":"SM STREET",
+        "city":"Thrissur"
+    },
+    "phoneNumbers":[
+        {
+            "type":"mobile",
+            "number":"123456"
+        },
+        {
+            "type":"home",
+            "number":"45678"  
+        }
+    ]
+    
+}
