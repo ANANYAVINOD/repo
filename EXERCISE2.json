@@ -1,0 +1,18 @@
+{
+    "employee":[
+    {
+        "name":"Ram",
+        "middle name":null,
+        "last name":"Kumar",
+        "salary":600,
+        "married":true
+    },
+    {
+        "name":"Kishor",
+        "middle name":"Raj",
+        "last name":"Kumar",
+        "salary":500,
+        "married":false
+    }
+    ]
+}
